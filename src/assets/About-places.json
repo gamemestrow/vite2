@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Mount Fuji",
+      "location": "Honshu Island, Japan",
+      "about": "Mount Fuji, at 3,776 meters, is Japan's highest peak and an active stratovolcano. Its nearly symmetrical cone makes it a cultural icon and UNESCO World Heritage Site. It’s a sacred site and popular for hiking."
+    },
+    {
+      "name": "Colosseum Amphitheatre",
+      "location": "Rome, Italy",
+      "about": "The Colosseum is a massive stone amphitheater built in 70-80 AD. It hosted gladiatorial contests and public spectacles. A UNESCO World Heritage Site, it remains a symbol of Roman engineering and culture."
+    },
+    {
+      "name": "London Bridge",
+      "location": "London, United Kingdom",
+      "about": "London Bridge spans the River Thames. The current concrete and steel bridge opened in 1973, replacing older versions. Historically significant, it connects the City of London with Southwark."
+    },
+    {
+      "name": "Eiffel Tower",
+      "location": "Paris, France",
+      "about": "The Eiffel Tower, a 330-meter iron lattice structure, was built in 1889 for the World's Fair. A global symbol of France and one of the most visited monuments, it offers breathtaking views of Paris."
+    }
+  ]
+  
